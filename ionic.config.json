@@ -1,0 +1,7 @@
+{
+	"name": "Svelte Ionic Capacitor",
+	"integrations": {
+	  "capacitor": {}
+	},
+	"type": "custom"
+  }
